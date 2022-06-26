@@ -1,0 +1,9 @@
+tensorflow>=1.15.2
+keras==2.9.0
+imutils==0.5.4
+numpy==1.22.4
+opencv-python==4.6.0.66
+matplotlib==3.5.2
+scipy==1.8.1
+
+scikit-learn~=1.1.1
